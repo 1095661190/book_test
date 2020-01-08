@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [book\_test](book-one/README.md)
-  * [two](book-one/two/README.md)
-    * [one](book-one/two/one.md)
+  * [one](book-one/one.md)
+  * [two](book-one/two.md)
 * [README.md](bian-yi-zhe-readme.md.md)
 * [grafana](grafana.md)
 * [Untitled](untitled.md)
